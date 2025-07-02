@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nombre": "Glamping Sol",
+    "capacidad": 4,
+    "precio": 0,
+    "caracteristicas": [],
+    "disponible": "true"
+  },
+  {
+    "id": 2,
+    "nombre": "Glamping Luna",
+    "capacidad": 2,
+    "precio": 0,
+    "caracteristicas": [],
+    "disponible": "true"
+  },
+  {
+    "id": 3,
+    "nombre": "Tamarindos",
+    "capacidad": "1",
+    "precio": "1",
+    "caracteristicas": [
+      "internet"
+    ],
+    "disponible": "true"
+  }
+]
