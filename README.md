@@ -4,6 +4,9 @@ Presentacion Canva : https://www.canva.com/design/DAGr--c0X4c/ZVBvTMDVHV5qKKMkki
 
 Integrantes
 #Luis Hernan Torres Machado
+-----------------------------------------
 #Cristian Matero Achury Arboleda
+-----------------------------------------
 #Maria Isabel Zapata Cano
+-----------------------------------------
 #Juan Jose Abello Aguirre
