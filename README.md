@@ -9,7 +9,7 @@ Puedes ver la presentación completa en Canva 👉
 
 ## ✨ Vista previa del proyecto
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRuZWppYzB6amg4dzBrc2ZnMXQ1bXN5azRmMW04aGZra3JtcHduMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YOUR_GIF_ID/giphy.gif" width="100%" alt="Vista previa del proyecto en funcionamiento" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9lZDl1Z2R3Z3p0MWNheG0wM3djZzY0MGt2azVvb3d4amhmenA1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njZPp4pQ0g4fe/giphy.gif" width="100%" alt="Vista previa del proyecto en funcionamiento" />
 
 > 🔁 *Reemplaza el enlace del GIF por el tuyo desde Giphy, GitHub o algún grabador como [Loom](https://loom.com) o [ScreenToGif](https://www.screentogif.com/).*
 
